@@ -12,5 +12,8 @@
 
 <br>
 <br>
+<h2>Este é o projeto com a responsividade para smartphone </h2>
+
+<img src="https://github.com/Tiago-barbosa-silva/Easy-Shopping/blob/master/img/Captura%20de%20tela_4-11-2024_17468_.jpeg?raw=true" />
 
 
